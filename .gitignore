@@ -126,4 +126,8 @@ venv.bak/
 dmypy.json
 
 # Pyre type checker
+.DS_Store
 .pyre/
+bokeh_plot.png
+7-4-challenge-image.png
+Screen Shot 2022-02-20 at 8.52.48 PM.png
